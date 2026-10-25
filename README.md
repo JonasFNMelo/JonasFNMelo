@@ -1,12 +1,11 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FA7343,100:0052CC&height=200&section=header&text=Jonas%20Melo&fontSize=56&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=iOS%20Developer%20%C2%B7%20SwiftUI%20%C2%B7%20Apple%20Developer%20Academy%20Ambassador&descSize=16&descAlignY=58"/>
+
 <div align="center">
 
-# Hi, I'm Jonas 👋
-
-### iOS Developer · SwiftUI · Apple Developer Academy | Mackenzie Ambassador
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=FA7343&center=true&vCenter=true&width=520&height=45&lines=iOS+Developer+%C2%B7+SwiftUI;6+apps+on+the+App+Store;Apple+Developer+Academy+Ambassador;From+first+sketch+to+App+Store" alt="Typing SVG"/>
 
 I build native apps for Apple platforms with SwiftUI, from the first sketch to the App Store.
-**6 apps published** and Computer Science student at
-Universidade Presbiteriana Mackenzie.
+**6 apps published** and Computer Science student at Universidade Presbiteriana Mackenzie.
 
 <br/>
 
@@ -80,7 +79,9 @@ Universidade Presbiteriana Mackenzie.
 | **Pipa** | Team member with the most commits; gamification (ranks and coupons), retrospective flow, animations and onboarding | SwiftUI, CloudKit, Foundation Models (Apple Intelligence), ESP32 hardware companion, unit tests |
 | **Zelu** | Group creation and editing, search inside groups, swipe-up tab bar | SwiftUI, SpriteKit physics scene, MultipeerConnectivity, CoreBluetooth, SwiftData + CloudKit, StoreKit 2, MVVM |
 | **Causos Ocultos** | All entity logic and interactions between entities, SwiftUI + SpriteKit integration, screen navigation | SpriteKit game inside SwiftUI, Apple Watch companion app, iOS + watchOS integration |
-| **Vivacidade** | Implemented the `ARView` and adding elements to the scene; built the logic that places an element in the real world and saves its coordinates so it can be loaded again in the same spot | SwiftUI, ARKit (augmented reality), world anchoring with persisted positions, audio recording and playback, custom file sharing || **CyberDo** | Solo: design, development and App Store release | Core Data with relationships, game rules (XP, levels, attributes, streak multiplier), remote JSON with `async/await`, local notifications |
+| **Vivacidade** | Implemented the `ARView` and adding elements to the scene; built the logic that places an element in the real world and saves its coordinates so it can be loaded again in the same spot | SwiftUI, ARKit (augmented reality), world anchoring with persisted positions, audio recording and playback, custom file sharing |
+| **CyberDo** | Solo: design, development and App Store release | Core Data with relationships, game rules (XP, levels, attributes, streak multiplier), remote JSON with `async/await`, local notifications |
+| **UniEsportes** | Core Data persistence layer and view model | Remote JSON with `URLSession` + `async/await`, `Codable`, Core Data favorites, native search |
 
 ---
 
@@ -102,7 +103,7 @@ Universidade Presbiteriana Mackenzie.
 
 **Architecture & practices:** MVVM · service layers · `async/await` · `Codable` + `URLSession` · Conventional Commits · pull-request workflow
 
-**Tools:** Xcode · Git · GitHub · GitHub CLI · TestFlight · App Store Connect · Figma · XcodeCloud 
+**Tools:** Xcode · Xcode Cloud · Git · GitHub · GitHub CLI · TestFlight · App Store Connect · Figma
 
 **Also:** C · Java · Python
 
@@ -116,6 +117,7 @@ Universidade Presbiteriana Mackenzie.
   <img src="https://img.shields.io/badge/ARKit-000000?style=flat-square&logo=apple&logoColor=white" alt="ARKit"/>
   <img src="https://img.shields.io/badge/Apple_Intelligence-000000?style=flat-square&logo=apple&logoColor=white" alt="Apple Intelligence"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
 </p>
 
@@ -125,3 +127,5 @@ Universidade Presbiteriana Mackenzie.
 
 - **Computer Science** — Universidade Presbiteriana Mackenzie (expected 2028)
 - **Apple Developer Academy | Mackenzie**
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0052CC,100:FA7343&height=100&section=footer"/>
