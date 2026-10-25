@@ -50,7 +50,6 @@ group creation and editing, search inside groups and the swipe-up tab bar.
 
 | Project | What it shows |
 |---|---|
-| [**Causos Ocultos: Quixeramobim**](https://github.com/C11G3/CausosOcultosQuixeramobim) | Folklore suspense game for iOS + watchOS. **My part:** all the entity logic and the interactions between entities, the SwiftUI + SpriteKit integration, and help with screen navigation |
 | [**Emotiva**](https://github.com/JonasFNMelo/Emotiva) | On-device sentiment analysis with Apple Intelligence (`FoundationModels`), App Intents and Siri shortcuts, Core Data |
 | [**POC_CloudKit**](https://github.com/JonasFNMelo/POC_CloudKit) | A minimal social app on CloudKit: public and private databases, record references, queries, MVVM + service layer |
 | [**CyberDo**](https://github.com/JonasFNMelo/CyberDo) | Gamified to-do list with a cyberpunk identity, Core Data persistence and custom SwiftUI components |
@@ -68,7 +67,6 @@ group creation and editing, search inside groups and the swipe-up tab bar.
   <img src="https://img.shields.io/badge/SwiftData-3693F3?style=flat-square&logo=apple&logoColor=white" alt="SwiftData"/>
   <img src="https://img.shields.io/badge/CloudKit-3693F3?style=flat-square&logo=icloud&logoColor=white" alt="CloudKit"/>
   <img src="https://img.shields.io/badge/SpriteKit-000000?style=flat-square&logo=apple&logoColor=white" alt="SpriteKit"/>
-  <img src="https://img.shields.io/badge/watchOS-000000?style=flat-square&logo=apple&logoColor=white" alt="watchOS"/>
   <img src="https://img.shields.io/badge/Apple_Intelligence-000000?style=flat-square&logo=apple&logoColor=white" alt="Apple Intelligence"/>
   <img src="https://img.shields.io/badge/App_Intents-000000?style=flat-square&logo=apple&logoColor=white" alt="App Intents"/>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode"/>
