@@ -4,9 +4,8 @@
 
 ### iOS Developer · SwiftUI · Apple Developer Academy | Mackenzie Ambassador
 
-I build native apps for Apple platforms with SwiftUI — from the first sketch to the App Store.
-**6 apps published**, front-end lead of a ~15-person team, and Computer Science student at
-Universidade Presbiteriana Mackenzie.
+I build native apps for Apple platforms with SwiftUI, from the first sketch to the App Store.
+**6 apps published**, Computer Science student at Universidade Presbiteriana Mackenzie.
 
 <br/>
 
@@ -78,13 +77,6 @@ Universidade Presbiteriana Mackenzie.
 - **Pipa** — the team member with the most commits; gamification (ranks and coupons), the retrospective flow, animations and onboarding.
 - **Zelu** — group creation and editing, search inside groups and the swipe-up tab bar.
 - **Causos Ocultos** — all the entity logic and the interactions between entities, the SwiftUI + SpriteKit integration, and help with screen navigation.
-
----
-
-## 🧭 Leadership
-
-- **Apple Developer Academy | Mackenzie Ambassador**
-- **Front-end lead — Alinha** · coordinated a team of ~15 people building a mentoring-queue system for the Academy across three platforms: an **iOS** app where students join the queue by category, a **macOS** app where mentors manage it, and a **tvOS** display showing the queue and available mentors — with an HTTP backend, push notifications and TestFlight distribution.
 
 ---
 
